@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Thotavaridilip
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning c language 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning frontend 
+- 💞️ I’m looking to collaborate on Linkedin
+- 🗣️ Reach me through LinkedIn(Thotavari dilip)
+- 😄 Pronouns: He,They 
+- ⚡ Fun fact: im a humorous person
 
 <!---
 Thotavaridilip/Thotavaridilip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
